@@ -7,10 +7,7 @@ The goal of this project is to uncover insights that help optimize **sales perfo
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add your dashboard screenshot here after uploading to GitHub)*  
-Example placeholder:  
-![Dashboard Preview](dashboard-screenshot.png)
-
+![alt text](image.png)
 ---
 
 ## 🎯 Objectives
